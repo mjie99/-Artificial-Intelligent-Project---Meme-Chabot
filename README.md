@@ -14,4 +14,4 @@
 - 
 - To develop a chatbot that able to let users to unwind thenself
 - To allow users to recognise the meme through image  
-- [insert]
+- To develop a chatbot that able to chat with users by using meme text or image
