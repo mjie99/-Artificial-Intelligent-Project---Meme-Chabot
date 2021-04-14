@@ -4,14 +4,14 @@
 **Project Title:** Meme ChabtBot
 
 **Team Members:** 
-- [Khaw Ming Jie]
-- [Choo Dik Pong]
-- [Gui Qi Fang]
-- [Loh Chun Ren]
+- Khaw Ming Jie
+- Choo Dik Pong
+- Gui Qi Fang
+- Loh Chun Ren
 
 
-- [ ] **Objectives:**
+**Objectives:**
 - 
-- [To develop a chatbot that able to let user unwind thenself]
-- [insert]
+- To develop a chatbot that able to let users to unwind thenself
+- To allow users to recognise the meme through image  
 - [insert]
