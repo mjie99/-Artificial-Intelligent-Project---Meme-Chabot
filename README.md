@@ -1,4 +1,4 @@
-# -Artificial-Intelligent-Project Meme-Chabot
+# -Artificial Intelligent Project : Meme Chabot
 ## A. PROJECT SUMMARY
 
 **Project Title:** Meme ChabtBot
