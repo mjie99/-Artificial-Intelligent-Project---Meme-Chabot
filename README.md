@@ -15,3 +15,11 @@
 - To develop a chatbot that able to let users to unwind thenself
 - To allow users to recognise the meme through image  
 - To develop a chatbot that able to chat with users by using meme text or image
+
+## B. ABSTRACT
+
+## C. DATASET
+
+## D. TRAINING
+
+## E. RESULT AND CONCLUTION
