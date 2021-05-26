@@ -12,9 +12,7 @@
 
 **Objectives:**
 - 
-- To develop a chatbot that able to let users to unwind thenself
-- To allow users to recognise the meme through image  
-- To develop a chatbot that able to chat with users by using meme text or image
+- To create a chatbot that able to use meme in daily conversation as a form of entertainment for users.
 
 ## B. ABSTRACT
 
